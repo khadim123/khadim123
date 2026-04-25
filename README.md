@@ -1,5 +1,30 @@
 # 💫 About Me:
-Hi 👋 I’m Khadim Hussain, a Full-Stack Web Developer with 6+ years of professional experience building modern, fast, and scalable web applications.<br><br>I specialize in Next.js full-stack development and also have deep experience with Laravel, WordPress and Shopify customization. I prefer custom-coded solutions over heavy plugins to ensure better performance, security, and long-term maintainability.<br><br>I’ve worked on startup MVPs, SaaS dashboards, business websites, landing pages, booking systems, and eCommerce platforms, always focusing on clean architecture, SEO, and user experience.<br><br>💡 I enjoy turning complex requirements into simple, reliable solutions and collaborating with clients to deliver real business value.<br><br>🚀 Currently open to freelance, contract, and long-term collaboration.
+
+I’m **Khadim Hussain**, a Senior Full-Stack Developer with **6+ years** of experience architecting high-performance web applications. I specialize in bridging the gap between complex business logic and seamless user experiences.
+
+### 🛠 My Core Philosophy
+I believe in **performance-first development**. While others rely on heavy plugins, I specialize in **custom-coded solutions** that ensure your application is fast, secure, and ready to scale.
+
+---
+
+### 🚀 What I Do:
+*   **Full-Stack Development:** Expert in the **Next.js** ecosystem (TypeScript, Tailwind, Prisma).
+*   **Enterprise Solutions:** Deep experience with **Laravel** for robust backend systems.
+*   **CMS & eCommerce:** Custom-built **WordPress** & **Shopify** themes and complex integrations.
+*   **Product Thinking:** Helping startups go from **MVP to SaaS Dashboard** with clean, maintainable code.
+
+### 📈 Technical Expertise:
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Redux
+- **Backend:** Node.js, Laravel, PHP, RESTful APIs, PostgreSQL/MySQL
+- **Platforms:** Shopify, WordPress (Custom Theme & Plugin Development)
+
+---
+
+💡 *I don’t just write code; I build solutions that drive business growth.*
+
+📫 **Let's Connect:** Currently open to freelance projects, long-term contracts, and technical consulting.
+[Portfolio](http://prfdesigner.com/) | [LinkedIn](https://www.linkedin.com/in/khadim-hussain-432b3383/)
+
 
 
 ## 🌐 Socials:
