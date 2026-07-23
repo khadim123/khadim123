@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I’m **Khadim Hussain**, a Senior Full-Stack Developer with **6+ years** of experience architecting high-performance web applications. I specialize in bridging the gap between complex business logic and seamless user experiences.
+I’m **Khadim Hussain**, a Senior Full-Stack Developer with **7+ years** of experience architecting high-performance web applications. I specialize in bridging the gap between complex business logic and seamless user experiences.
 
 ### 🛠 My Core Philosophy
 I believe in **performance-first development**. While others rely on heavy plugins, I specialize in **custom-coded solutions** that ensure your application is fast, secure, and ready to scale.
