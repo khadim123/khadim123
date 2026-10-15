@@ -6,7 +6,7 @@
 
 **I build fast, scalable web apps that ship — and keep working after launch.**
 
-7+ years turning ideas into production-grade applications.
+8+ years turning ideas into production-grade applications.
 
 [![Portfolio](https://img.shields.io/badge/prfdesigner.com-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://prfdesigner.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadim-hussain-432b3383/)
